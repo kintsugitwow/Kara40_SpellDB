@@ -121,7 +121,7 @@
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_immolation.jpg">Spell_Fire_Immolation</a><br>
 **Debuff effect:** Silenced. Inflicts damage upon moving.<br>
 **Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
-**Note:** *23 yard range explosion.*<br>
+**Note:** *23 yard range explosion. Can target pets. Can target same person as Lingering Polymorph which causes target to move, meaning that 1 in 1600 engaged Lingering Magues is a wipe unless one of two debuffs is dispelled really fast. <a href="https://www.youtube.com/watch?v=p50OitmdQps&t=5803s">Video proof of combo of both spells</a>.*<br>
 
 [spell_fire_immolation]: https://wow.zamimg.com/images/wow/icons/small/spell_fire_immolation.jpg
 
