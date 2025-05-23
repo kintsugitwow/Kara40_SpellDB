@@ -36,15 +36,6 @@
 [spell_shadow_grimward]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_grimward.jpg
 
 
-### ![spell_fire_incinerate] Overflowing Hatred (51203)
-**Effect:** ???<br>
-**Cast:** 4.9 sec cast.<br>
-**Range:** 15 yards.<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_incinerate.jpg">Spell_Fire_Incinerate</a><br>
-
-[spell_fire_incinerate]: https://wow.zamimg.com/images/wow/icons/small/spell_fire_incinerate.jpg
-
-
 ### ![spell_shadow_abominationexplosion] Phase Shifted (51197)
 **Effect:** Corrupts the target, causing 6000 Shadow damage over 25 sec.<br>
 **Cast:** Instant.<br>
@@ -56,15 +47,6 @@
 [spell_shadow_abominationexplosion]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_abominationexplosion.jpg
 
 
-### ![spell_nature_wispsplode] Rift Feedback (51205)
-**Effect:** ???<br>
-**Cast:** 1.84 sec cast.<br>
-**Range:** 50 yards.<br>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplode.jpg">Spell_Nature_WispSplode</a><br>
-
-[spell_nature_wispsplode]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_wispsplode.jpg
-
-
 ### ![spell_shadow_shadowbolt] Netherbolt (51198)
 **Effect:** Sends a shadowy bolt at the enemy, causing 2501 to 4000 Shadow damage.<br>
 **Cast:** 0.98 sec cast<br>
@@ -72,6 +54,23 @@
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
 
 [spell_shadow_shadowbolt]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_shadowbolt.jpg
+
+
+### ![spell_fire_incinerate] Overflowing Hatred (51203)
+**Effect:** ???<br>
+**Cast:** 4.9 sec cast.<br>
+**Range:** 15 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_incinerate.jpg">Spell_Fire_Incinerate</a><br>
+
+[spell_fire_incinerate]: https://wow.zamimg.com/images/wow/icons/small/spell_fire_incinerate.jpg
+
+### ![spell_nature_wispsplode] Rift Feedback (51205)
+**Effect:** ???<br>
+**Cast:** 1.84 sec cast.<br>
+**Range:** 50 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplode.jpg">Spell_Nature_WispSplode</a><br>
+
+[spell_nature_wispsplode]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_wispsplode.jpg
 
 
 ### ![spell_shadow_unholyfrenzy] Enrage (51206)
@@ -104,7 +103,7 @@
 
 ## Rift-Lost Draenei (Demon)
 
-**Auto attack.**
+**Auto attack, only.**
 
 
 
@@ -120,6 +119,7 @@
 
 
 ## Draenei Riftstalker (Demon)
+
 
 ### ![spell_shadow_mindsteal] Blind (21060)
 **Effect:** Blinds the target, causing it to wander confused for up to 10 sec.  Any damage caused will remove the effect.<br>
@@ -149,6 +149,7 @@
 [spell_shadow_soulgem]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_soulgem.jpg
 
 
+
 ## Draenei Riftwalker
 
 
@@ -168,3 +169,46 @@
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplode.jpg">Spell_Nature_WispSplode</a><br>
 
 [spell_nature_wispsplode]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_wispsplode.jpg
+
+
+
+## Draenei Truthseeker
+
+
+### ![spell_fire_selfdestruct] Flamestrike (22275)
+**Effect:** Calls down a pillar of flame, burning all enemies in a selected area and inflicting additional damage every 2 sec. for 8 sec.<br>
+**Cast:** 2.45 sec cast.<br>
+**Range:** 33 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_selfdestruct.jpg">Spell_Fire_SelfDestruct</a><br>
+
+[spell_fire_selfdestruct]: https://wow.zamimg.com/images/wow/icons/small/spell_fire_selfdestruct.jpg
+
+
+### ![spell_fire_flamebolt] Fireball (19391)
+**Effect:** Inflicts Fire damage to an enemy.<br>
+**Cast:** 1.96 sec cast.<br>
+**Range:** 40 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_flamebolt.jpg">Spell_Fire_FlameBolt</a><br>
+
+[spell_fire_flamebolt]: https://wow.zamimg.com/images/wow/icons/small/spell_fire_flamebolt.jpg
+
+
+
+## Draenei Netherwalker
+
+
+### ![spell_shadow_shadowbolt] Shadow Bolt Volley (28448)
+**Effect:** Hurls missiles of dark magic, inflicting Shadow damage to nearby enemies.<br>
+**Cast:** 3.75 sec cast.<br>
+**Range:** 33 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
+
+[spell_shadow_shadowbolt]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_shadowbolt.jpg
+
+
+### ![spell_frost_wisp] Ghost Visual (22650)
+**Effect:** ???<br>
+**Cast:** Instant.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_wisp.jpg">Spell_Frost_Wisp</a><br>
+
+[spell_frost_wisp]: https://wow.zamimg.com/images/wow/icons/small/spell_frost_wisp.jpg
