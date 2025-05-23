@@ -6,7 +6,7 @@
 ### ![spell_nature_astralrecalgroup] Rift Entanglement (51194)
 **Effect:** Increases all damage taken by 200% and increases Shadow damage done by 100% for 30 sec.<br>
 **Cast:** Instant.<br>
-**Range:** 100 yards.<br>
+**Range:** 40 yards.<br>
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_astralrecalgroup.jpg">Spell_Nature_AstralRecalGroup</a><br/>
 **Debuff effect:** Arcane damage taken increased by 200%. Shadow damage done increased by 100%.<br>
 **Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
@@ -17,7 +17,7 @@
 ### ![spell_shadow_cripple] Nether Banishment (51195)
 **Effect:** Banishes the enemy target, preventing all action but making it invulnerable for up to 7 sec.  Only one target can be banished at a time. <br>
 **Cast:** Instant.<br>
-**Range:** 100 yards.<br>
+**Range:** 30 yards.<br>
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_cripple.jpg">Spell_Shadow_Cripple</a><br>
 **Debuff effect:** Unable to move.<br/>
 **Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
@@ -28,7 +28,7 @@
 ### ![spell_shadow_grimward] Curse of the Rift (51196)
 **Effect:** Reduces nearby enemies' movement, casting and attack speed by 25% for 10 min.<br>
 **Cast:** Instant.<br>
-**Range:** 100 yards.<br>
+**Range:** 30 yards.<br>
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_grimward.jpg">Spell_Shadow_GrimWard</a><br>
 **Debuff effect:** Movement speed slowed by 25%. Casting speed slowed by 25%. Attack speed slowed by 25%.<br>
 **Debuff type:** <span style="color:#9600FF">Curse</span>.<br>
@@ -50,7 +50,7 @@
 ### ![spell_shadow_shadowbolt] Netherbolt (51198)
 **Effect:** Sends a shadowy bolt at the enemy, causing 2501 to 4000 Shadow damage.<br>
 **Cast:** 0.98 sec cast<br>
-**Range:** 100 yards.<br>
+**Range:** 30 yards.<br>
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
 
 [spell_shadow_shadowbolt]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_shadowbolt.jpg
@@ -84,6 +84,7 @@
 ### ![ability_warrior_battleshout] Leader of the Tribe (51207)
 **Effect:** Increases the attack speed of all nearby allies by 40%. The aura lasts until cancelled.<br>
 **Cast:** Instant.<br>
+**Range:** 40 yards.<br>
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_warrior_battleshout.jpg">Ability_Warrior_BattleShout</a><br>
 
 [ability_warrior_battleshout]: https://wow.zamimg.com/images/wow/icons/small/ability_warrior_battleshout.jpg
@@ -92,7 +93,7 @@
 ### ![spell_nature_healingtouch] Opening the Rift (51209)
 **Effect:** ???<br>
 **Cast:** Channeled.<br>
-**Range:** 10 yards.<br>
+**Range:** 13 yards.<br>
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_healingtouch.jpg">Spell_Nature_HealingTouch</a><br>
 
 [spell_nature_healingtouch]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_healingtouch.jpg
@@ -103,7 +104,7 @@
 
 ## Rift-Lost Draenei (Demon)
 
-**Auto attack, only.**
+*Auto attack, only.*
 
 
 
