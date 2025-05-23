@@ -151,7 +151,7 @@
 
 
 
-## Draenei Riftwalker
+## Draenei Riftwalker (Demon)
 
 
 ### ![spell_shadow_lifedrain] Form Rift Elemental (51199)
@@ -173,7 +173,7 @@
 
 
 
-## Draenei Truthseeker
+## Draenei Truthseeker (Demon)
 
 
 ### ![spell_fire_selfdestruct] Flamestrike (22275)
@@ -195,7 +195,7 @@
 
 
 
-## Draenei Netherwalker
+## Draenei Netherwalker (Demon)
 
 
 ### ![spell_shadow_shadowbolt] Shadow Bolt Volley (28448)

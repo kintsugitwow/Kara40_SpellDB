@@ -1,0 +1,69 @@
+# Trash before Anomalus
+
+
+## Arcane Overflow (Elemental)
+
+### ![spell_nature_wispsplode] Arcane Explosion (30096)
+**Effect:** Sends out a blast wave of magic, inflicting Arcane damage to nearby enemies.<br/>
+**Cast:** 1.5 sec cast.<br/>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplode.jpg">Spell_Nature_WispSplode</a>
+
+[spell_nature_wispsplode]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_wispsplode.jpg
+
+
+### ![spell_frost_iceshock] Arcane Pressure (57649)
+**Effect:** Increasing the time between its attacks by 80% and slowing its movement by 80% for 5 min.<br>
+**Cast:** 0.5 sec cast.<br>
+**Range:** 30 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_iceshock.jpg">Spell_Frost_IceShock</a><br>
+**Debuff effect:** Reduced movement speed by 80%. Reduced attack speed by 80%.<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+
+[spell_frost_iceshock]: https://wow.zamimg.com/images/wow/icons/small/spell_frost_iceshock.jpg
+
+
+
+## Arcane Anomaly (Elemental)
+
+
+### ![inv_enchant_essenceeternallarge] Overflowing Arcana (57646)
+**Effect:** Deals 2400 damage over 12 sec.<br>
+**Cast:** Instant.<br>
+**Range:** 20 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/inv_enchant_essenceeternallarge.jpg">INV_Enchant_EssenceEternalLarge</a><br>
+**Note:** Stacks.<br>
+
+[inv_enchant_essenceeternallarge]: https://wow.zamimg.com/images/wow/icons/small/inv_enchant_essenceeternallarge.jpg
+
+
+
+## Unstable Arcane Elemental (Elemental)
+
+
+### ![spell_shadow_teleport] Unstable Mana (57647)
+**Effect:** Drains 600 mana and deals 599 damage every 1 sec for 10 sec.<br>
+**Cast:** Instant.<br>
+**Range:** 35 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_teleport.jpg">Spell_Shadow_Teleport</a><br>
+**Debuff effect:** Drains 600 mana and deals 599 damage every 1 sec.<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+**Note:** *Target's group explodes when dispelled.*<br>
+
+
+[spell_shadow_teleport]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_teleport.jpg
+
+
+
+## Disrupted Arcane Elemental (Elemental)
+
+
+### ![spell_nature_lightning] Mana Buildup (57648)
+**Effect:** ???<br>
+**Cast:** Instant.<br>
+**Range:** 30 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_lightning.jpg">Spell_Nature_Lightning</a><br>
+**Debuff effect:** Arcane energies build...<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+**Note:** *Target explodes when debuff runs out.*<br>
+
+[spell_nature_lightning]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_lightning.jpg
