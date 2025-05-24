@@ -1,0 +1,275 @@
+# Trash before Ley-Watcher Incantagos
+
+
+## Manascale Suppressor (Dragonkin)
+
+
+### ![spell_holy_silence] Invoked Silence (52386)
+**Effect:** Silences enemies near the target, preventing them from casting spells for 10 sec.<br>
+**Cast:** 1.5 sec cast.<br>
+**Range:** 100 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_holy_silence.jpg">Spell_Holy_Silence</a><br>
+**Debuff effect:** Cannot cast spells.<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+
+[spell_holy_silence]: https://wow.zamimg.com/images/wow/icons/small/spell_holy_silence.jpg
+
+
+### ![spell_nature_slow] Unstablized Mana (52390)
+**Effect:** Increases the target's casting speed but they take damage after the effect expires.<br>
+**Cast:** 3 sec cast.<br>
+**Range:** 33 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_slow.jpg">Spell_Nature_Slow</a><br>
+**Debuff effect:** Increased casting speed by 100%.<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+
+[spell_nature_slow]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_slow.jpg
+
+
+### ![spell_nature_purge] Summon Resonating Crystal (52385)
+**Effect:** Summon Resonating Crystal.<br>
+**Cast:** 5 sec cast.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_purge.jpg">Spell_Nature_Purge</a><br>
+
+[spell_nature_purge]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_purge.jpg
+
+
+
+## Resonating Crystal (Not specified)
+
+
+### ![spell_nature_tranquility] Resonation Immunity (52384)
+**Effect:** Makes all friendly targets within 30 yards immune to all damage except arcane while the caster is alive.<br>
+**Cast:** Channeled.<br>
+**Range:** 33 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_tranquility.jpg">Spell_Nature_Tranquility</a><br>
+
+[spell_nature_tranquility]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_tranquility.jpg
+
+
+
+## Manascale Drake (Dragonkin)
+
+
+### ![ability_druid_demoralizingroar] Dragon's Presence (40003)
+**Effect:** The caster lets out a mighty roar, reducing attack power of nearby enemies by 250 for 2 min.<br>
+**Cast:** Instant.<br>
+**Range:** 23 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_druid_demoralizingroar.jpg">Ability_Druid_DemoralizingRoar</a><br>
+**Debuff effect:** Attack Power reduced.<br>
+**Debuff type:** <span style="color:#C80000">Physical</span>.<br>
+
+[ability_druid_demoralizingroar]: https://wow.zamimg.com/images/wow/icons/small/ability_druid_demoralizingroar.jpg
+
+
+### ![spell_frost_frostshock] Frigid Mana Breath (52388)
+**Effect:** Deals damage and freezes the target.<br>
+**Cast:** Instant.<br>
+**Range:** 23 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_frostshock.jpg">Spell_Frost_FrostShock</a><br>
+**Debuff effect:** Frozen.<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+
+[spell_frost_frostshock]: https://wow.zamimg.com/images/wow/icons/small/spell_frost_frostshock.jpg
+
+
+### ![spell_frost_frostshock] Frigid Mana Breath (52389)
+**Effect:** Deals damage.<br>
+**Cast:** Instant.<br>
+**Range:** 23 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_frostshock.jpg">Spell_Frost_FrostShock</a><br>
+
+[spell_frost_frostshock]: https://wow.zamimg.com/images/wow/icons/small/spell_frost_frostshock.jpg
+
+
+### ![ability_devour] Dragon Roar (52381)
+**Effect:** The caster lets out a mighty roar, causing all enemies within 40 yards to flee and reducing their attack power by 250 for 2 min.<br>
+**Cast:** Instant.<br>
+**Range:** 40 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_devour.jpg">Ability_Devour</a><br>
+**Debuff effect:** Running in fear.<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+
+[ability_devour]: https://wow.zamimg.com/images/wow/icons/small/ability_devour.jpg
+
+
+### ![inv_misc_monsterscales_05] Draconic Thrash (52387)
+**Effect:** Inflicts damage, knocks the target back, and clears their threat.<br>
+**Cast:** Instant.<br>
+**Range:** 5 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/inv_misc_monsterscales_05.jpg">INV_Misc_MonsterScales_05</a><br>
+
+[inv_misc_monsterscales_05]: https://wow.zamimg.com/images/wow/icons/small/inv_misc_monsterscales_05.jpg
+
+
+
+## Manascale Dragon Guard (Dragonkin)
+
+
+### ![ability_devour] Draconic Intimidation (52393)
+**Effect:** ???<br>
+**Cast:** Instant.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_devour.jpg">Ability_Devour</a><br>
+**Debuff effect:** Running in Fear.<br>
+**Debuff type:** <span style="color:#C80000">Physical</span>.<br>
+
+[ability_devour]: https://wow.zamimg.com/images/wow/icons/small/ability_devour.jpg
+
+
+
+### ![spell_shadow_auraofdarkness] Draconic Intimidation (52394)
+**Effect:** Fears all targets within 10 yards, leaves a physical debuff that reduces armor by 2000 and reduces attack speed by  25%.<br>
+**Cast:** Instant.<br>
+**Range:** 14 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_auraofdarkness.jpg">Spell_Shadow_AuraOfDarkness</a><br>
+**Debuff effect:** Reduced armor and attack speed.<br>
+**Debuff type:** <span style="color:#C80000">Physical</span>.<br>
+
+[spell_shadow_auraofdarkness]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_auraofdarkness.jpg
+
+
+### ![inv_misc_head_dragon_01] Enrage Dragonkin (52378)
+**Effect:** Increases an ally's attack speed by 100% for 30 sec.<br>
+**Cast:** Instant.<br>
+**Range:** 34 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/inv_misc_head_dragon_01.jpg">INV_Misc_Head_Dragon_01</a><br>
+
+[inv_misc_head_dragon_01]: https://wow.zamimg.com/images/wow/icons/small/inv_misc_head_dragon_01.jpg
+
+
+### ![ability_warrior_defensivestance] Scaleguard (52379)
+**Effect:** Increases armor by 4000 for 20 sec.<br>
+**Cast:** Instant.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_warrior_defensivestance.jpg">Ability_Warrior_DefensiveStance</a><br>
+
+
+[ability_warrior_defensivestance]: https://wow.zamimg.com/images/wow/icons/small/ability_warrior_defensivestance.jpg
+
+
+### ![ability_thunderclap] Thunderclap (52380)
+**Effect:** Damages all nearby enemies for 2200 nature damage.<br>
+**Cast:** Instant.<br>
+**Range:** 23 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/ability_thunderclap.jpg">Ability_ThunderClap</a><br>
+
+[ability_thunderclap]: https://wow.zamimg.com/images/wow/icons/small/ability_thunderclap.jpg
+
+
+
+## Manascale Overseer (Dragonkin)
+
+### ![inv_misc_monsterclaw_02] Draconic Cleave (52383)
+**Effect:** Deals damage to all enemies in front of the caster.<br>
+**Cast:** Instant.<br>
+**Range:** 10 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/inv_misc_monsterclaw_02.jpg">INV_Misc_MonsterClaw_02</a><br>
+
+[inv_misc_monsterclaw_02]: https://wow.zamimg.com/images/wow/icons/small/inv_misc_monsterclaw_02.jpg
+
+
+### ![spell_nature_wispsplode] Manascale Eruption ()
+**Effect:** Causes an explosion of arcane magic around the caster, causing Arcane damage to all targets within 30 yards.<br>
+**Cast:** 1.5 sec cast.<br>
+**Range:** 7 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplode.jpg">Spell_Nature_WispSplode</a><br>
+
+[spell_nature_wispsplode]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_wispsplode.jpg
+
+
+
+## Manascale Mageweaver (Dragonkin)
+
+
+### ![spell_nature_slow] Manascale Frostbolt (52395)
+**Effect:** Increases the time between an enemy's attacks by 50%, slows its movement by 50% and reduces their casting speed by 50 for 20 sec.<br>
+**Cast:** Instant.<br>
+**Range:** 100 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_slow.jpg">Spell_Nature_Slow</a><br>
+**Debuff effect:** Time between attacks increased by 50%. Movement speed reduced by 50%. Casting speed reduced by 50%.<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+
+[spell_nature_slow]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_slow.jpg
+
+
+### ![spell_nature_slow] Manascale Frostbolt (52396)
+**Effect:** Launches a bolt of frost at the enemy.<br>
+**Cast:** 3 sec cast.<br>
+**Range:** 40 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_slow.jpg">Spell_Nature_Slow</a><br>
+
+[spell_nature_slow]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_slow.jpg
+
+
+### ![spell_shadow_siphonmana] Manabolt (52392)
+**Effect:** Deals arcane damage to the target, reducing their magical resistances and increasing magical damage taken for 20 sec.<br>
+**Cast:** 3 sec cast.<br>
+**Range:** 40 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_siphonmana.jpg">Spell_Shadow_SiphonMana</a><br>
+**Debuff effect:** Resistances decreased. Magic damage taken increased.<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+
+[spell_shadow_siphonmana]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_siphonmana.jpg
+
+
+### ![inv_misc_monsterscales_08] Mana Enchanted Scales (52398)
+**Effect:** Increases the target's resistance to spells by 50 for until cancelled.<br>
+**Cast:** 1.5 sec cast.<br>
+**Range:** 33 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/inv_misc_monsterscales_08.jpg">INV_Misc_MonsterScales_08</a><br>
+**Buff effect:** Increases All Resistances by 50.<br>
+**Buff type:** <span style="color:#3296FF">Magic</span>.<br>
+
+
+[inv_misc_monsterscales_08]: https://wow.zamimg.com/images/wow/icons/small/inv_misc_monsterscales_08.jpg
+
+
+### ![spell_nature_abolishmagic] Ley Enchanted Scales (57635)
+**Effect:** Decrease all forms of damage taken by an ally by 50%<br>
+**Cast:** 1.5 sec cast.<br>
+**Range:** 33 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_abolishmagic.jpg">Spell_Nature_AbolishMagic</a><br>
+**Buff effect:** All damage taken is reduced by 50%<br>
+**Buff type:** <span style="color:#3296FF">Magic</span>.<br>
+**Note:** *Purge.*<br>
+
+[spell_nature_abolishmagic]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_abolishmagic.jpg
+
+
+
+## Manascale Whelp (Dragonkin)
+
+
+### ![spell_nature_slow] Manascale Frostbolt (52395)
+**Effect:** Increases the time between an enemy's attacks by 50%, slows its movement by 50% and reduces their casting speed by 50 for 20 sec.<br>
+**Cast:** Instant.<br>
+**Range:** 100 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_slow.jpg">Spell_Nature_Slow</a><br>
+**Debuff effect:** Time between attacks increased by 50%. Movement speed reduced by 50%. Casting speed reduced by 50%.<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+
+[spell_nature_slow]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_slow.jpg
+
+
+### ![spell_nature_slow] Manascale Frostbolt (52396)
+**Effect:** Launches a bolt of frost at the enemy.<br>
+**Cast:** 3 sec cast.<br>
+**Range:** 40 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_slow.jpg">Spell_Nature_Slow</a><br>
+
+[spell_nature_slow]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_slow.jpg
+
+
+### ![spell_shadow_siphonmana] Manabolt (52392)
+**Effect:** Deals arcane damage to the target, reducing their magical resistances and increasing magical damage taken for 20 sec.<br>
+**Cast:** 3 sec cast.<br>
+**Range:** 40 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_siphonmana.jpg">Spell_Shadow_SiphonMana</a><br>
+**Debuff effect:** Resistances decreased. Magic damage taken increased.<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+
+[spell_shadow_siphonmana]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_siphonmana.jpg
+
+
+
+
+

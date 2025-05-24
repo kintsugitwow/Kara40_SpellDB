@@ -1,0 +1,157 @@
+# Trash before Keeper Gnarlmoon
+
+
+## Shadowclaw Darkbringer
+
+
+### ![spell_shadow_sealofkings] Veil of Karazhan (57643)
+**Effect:** Protects the caster from physical damage for 8 sec.<br>
+**Cast:** 2.5 sec cast.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_sealofkings.jpg">Spell_Shadow_SealOfKings</a><br>
+**Buff effect:** Immune to physical damage. Still vulnurable to magical damage.<br>
+**Buff type:** <span style="color:#C80000">Physical</span>.<br>
+
+[spell_shadow_sealofkings]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_sealofkings.jpg
+
+
+### ![spell_shadow_antimagicshell] Veil of Vorgendor (57644)
+**Effect:** Protects the caster from magical damage for 8 sec.<br>
+**Cast:** 2.5 sec cast.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_antimagicshell.jpg">Spell_Shadow_AntiMagicShell</a><br>
+**Buff effect:** Immune to magical damage. Still vulnurable to physical damage.<br>
+**Buff type:** <span style="color:#C80000">Physical</span>.<br>
+
+[spell_shadow_antimagicshell]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_antimagicshell.jpg
+
+
+### ![spell_shadow_shadowbolt] Call of Darkness (57645)
+**Effect:** Hurls missiles of dark magic, inflicting 12000 Shadow damage to nearby enemies.<br>
+**Cast:** 5 sec cast.<br>
+**Range:** 53 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
+
+[spell_shadow_shadowbolt]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_shadowbolt.jpg
+
+
+### ![spell_shadow_animatedead] Shadowclaw Curse (57638)
+**Effect:** Reduces shadow resistance by 200 and increases shadow damage taken by 1500.<br>
+**Cast:** Instant.<br>
+**Range:** 50 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_animatedead.jpg">Spell_Shadow_AnimateDead</a><br>
+**Debuff effect:** Reduces shadow resistance by 200 and increases Shadow damage taken by magical spells and effects by up to 1500.<br>
+**Debuff type:** <span style="color:#9600FF">Curse</span>.<br>
+
+[spell_shadow_animatedead]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_animatedead.jpg
+
+
+
+## Shadowclaw Rager
+
+
+### ![spell_shadow_chilltouch] Shadowclaw Enrage (57639)
+**Effect:** Increases damage by 300%, attack speed by 100%<br>
+**Cast:** Instant.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_chilltouch.jpg">Spell_Shadow_ChillTouch</a><br>
+**Note:** *Tranq shot.*
+
+[spell_shadow_chilltouch]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_chilltouch.jpg
+
+
+### ![spell_shadow_shadowbolt] Claw of Shadow (57640)
+**Effect:** Sends a shadowy bolt at the enemy, causing 3500 Shadow damage.<br>
+**Cast:** 1 sec cast.<br>
+**Range:** 10 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
+
+[spell_shadow_shadowbolt]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_shadowbolt.jpg
+
+
+### ![spell_shadow_animatedead] Shadowclaw Curse (57638)
+**Effect:** Reduces shadow resistance by 200 and increases shadow damage taken by 1500.<br>
+**Cast:** Instant.<br>
+**Range:** 50 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_animatedead.jpg">Spell_Shadow_AnimateDead</a><br>
+**Debuff effect:** Reduces shadow resistance by 200 and increases Shadow damage taken by magical spells and effects by up to 1500.<br>
+**Debuff type:** <span style="color:#9600FF">Curse</span>.<br>
+
+[spell_shadow_animatedead]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_animatedead.jpg
+
+
+
+## Shadowclaw Worgen
+
+
+### ![spell_shadow_shadowbolt] Claw of Shadow (57640)
+**Effect:** Sends a shadowy bolt at the enemy, causing 3500 Shadow damage.<br>
+**Cast:** 1 sec cast.<br>
+**Range:** 10 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
+
+[spell_shadow_shadowbolt]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_shadowbolt.jpg
+
+
+### ![spell_shadow_animatedead] Shadowclaw Curse (57638)
+**Effect:** Reduces shadow resistance by 200 and increases shadow damage taken by 1500.<br>
+**Cast:** Instant.<br>
+**Range:** 50 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_animatedead.jpg">Spell_Shadow_AnimateDead</a><br>
+**Debuff effect:** Reduces shadow resistance by 200 and increases Shadow damage taken by magical spells and effects by up to 1500.<br>
+**Debuff type:** <span style="color:#9600FF">Curse</span>.<br>
+
+[spell_shadow_animatedead]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_animatedead.jpg
+
+
+
+## Duskfang Creeper
+
+
+### ![spell_nature_corrosivebreath] Encroaching Poison (57642)
+**Effect:** Spit poison causing 13000 Nature damage after 4 sec. Cannot be cast on players.<br>
+**Cast:** Instant.<br>
+**Range:** 30 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_corrosivebreath.jpg">Spell_Nature_CorrosiveBreath</a><br>
+
+[spell_nature_corrosivebreath]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_corrosivebreath.jpg
+
+
+### ![spell_nature_corrosivebreath] Leeching Poison (57641)
+**Effect:** Shoots poison at an enemy, damaging health and mana by 1500 every 3 sec. for 15 sec.<br>
+**Cast:** 1.5 sec cast.<br>
+**Range:** 33 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_corrosivebreath.jpg">Spell_Nature_CorrosiveBreath</a><br>
+**Debuff effect:** Inflict 7500 damage over 15 sec Drains 7500 mana over 15 sec<br>
+**Debuff type:** <span style="color:#009600">Poison</span>.<br>
+
+[spell_nature_corrosivebreath]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_corrosivebreath.jpg
+
+
+
+## Spectral Worker
+
+### ![spell_shadow_psychicscream] Phantom Scream (57062)
+**Effect:** Silences nearby enemies, preventing them from casting spells for 10 sec.<br>
+**Cast:** Instant.<br>
+**Range:** 15 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_psychicscream.jpg">Spell_Shadow_PsychicScream</a><br>
+**Debuff effect:** Cannot cast spells.<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+
+[spell_shadow_psychicscream]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_psychicscream.jpg
+
+
+### ![spell_shadow_curseofachimonde] Wallowing Curse (57637)
+**Effect:** Curses the target for 1 hour, reducing all resistances by 150, stamina by 150, and healing received by 91%.<br>
+**Cast:** Instant.<br>
+**Range:** 83 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_curseofachimonde.jpg">Spell_Shadow_CurseOfAchimonde</a><br>
+**Debuff effect:** Reduces all resistances by 150, Stamina by 150 and healing received by 91%.<br>
+**Debuff type:** <span style="color:#9600FF">Curse</span>.<br>
+
+[spell_shadow_curseofachimonde]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_curseofachimonde.jpg
+
+
+
+## Greater Gloomwing
+
+*Auto attack, only.*
+

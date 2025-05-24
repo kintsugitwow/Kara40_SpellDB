@@ -3,6 +3,7 @@
 [boss]: https://static.wikia.nocookie.net/wowwiki/images/f/f4/UI-Skull-32x32.png
 
 
+
 ### ![spell_nature_astralrecalgroup] Rift Entanglement (51194)
 **Effect:** Increases all damage taken by 200% and increases Shadow damage done by 100% for 30 sec.<br>
 **Cast:** Instant.<br>
@@ -49,7 +50,7 @@
 
 ### ![spell_shadow_shadowbolt] Netherbolt (51198)
 **Effect:** Sends a shadowy bolt at the enemy, causing 2501 to 4000 Shadow damage.<br>
-**Cast:** 0.98 sec cast<br>
+**Cast:** 1 sec cast<br>
 **Range:** 30 yards.<br>
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
 
@@ -144,7 +145,7 @@
 
 ### ![spell_shadow_soulgem] Phase Shifted (51200)
 **Effect:** Renders you immune to all damage except Shadow for 12 sec.<br>
-**Cast:** 1.84 sec cast.<br>
+**Cast:** 2 sec cast.<br>
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_soulgem.jpg">Spell_Shadow_SoulGem</a><br>
 
 [spell_shadow_soulgem]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_soulgem.jpg
@@ -156,7 +157,7 @@
 
 ### ![spell_shadow_lifedrain] Form Rift Elemental (51199)
 **Effect:** Kills the caster and target and summons a Rift Elemental.<br>
-**Cast:** 9.8 sec cast.<br>
+**Cast:** 10 sec cast.<br>
 **Range:** 35 yards.<br>
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_lifedrain.jpg">Spell_Shadow_LifeDrain</a><br>
 
@@ -165,7 +166,7 @@
 
 ### ![spell_nature_wispsplode] Arcane Explosion (19712)
 **Effect:** Sends out a blast wave of magic, inflicting 925 to 1075 Arcane damage to nearby enemies.<br>
-**Cast:** 0.613 sec cast.<br>
+**Cast:** 0.6 sec cast.<br>
 **Range:** 5 yards.<br>
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_wispsplode.jpg">Spell_Nature_WispSplode</a><br>
 
@@ -178,7 +179,7 @@
 
 ### ![spell_fire_selfdestruct] Flamestrike (22275)
 **Effect:** Calls down a pillar of flame, burning all enemies in a selected area and inflicting additional damage every 2 sec. for 8 sec.<br>
-**Cast:** 2.45 sec cast.<br>
+**Cast:** 2.5 sec cast.<br>
 **Range:** 33 yards.<br>
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_selfdestruct.jpg">Spell_Fire_SelfDestruct</a><br>
 
@@ -187,7 +188,7 @@
 
 ### ![spell_fire_flamebolt] Fireball (19391)
 **Effect:** Inflicts Fire damage to an enemy.<br>
-**Cast:** 1.96 sec cast.<br>
+**Cast:** 2 sec cast.<br>
 **Range:** 40 yards.<br>
 **Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_flamebolt.jpg">Spell_Fire_FlameBolt</a><br>
 
