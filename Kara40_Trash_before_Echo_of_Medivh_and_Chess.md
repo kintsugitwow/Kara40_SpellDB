@@ -133,7 +133,7 @@
 ### ![spell_nature_unyeildingstamina] Hunter-Killer Protocol (57650)
 **Effect:** A strong attack that increases melee damage by 1 to 0 and generates a high amount of threat.<br/>
 **Cast:** 2 sec cast.<br/>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_unyeildingstamina.jpg">spell_nature_unyeildingstamina</a>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_unyeildingstamina.jpg">Spell_Nature_UnyeildingStamina</a>
 
 [spell_nature_unyeildingstamina]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_unyeildingstamina.jpg
 
@@ -149,7 +149,7 @@
 ### ![spell_shadow_lifedrain] Self Destruction Protocol (57652)
 **Effect:** Destroys the caster, dealing 11999 damage to all enemies within a 20 yards.<br/>
 **Cast:** 4 sec cast.<br/>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_lifedrain.jpg">spell_shadow_lifedrain</a>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_lifedrain.jpg">Spell_Shadow_LifeDrain</a>
 
 [spell_shadow_lifedrain]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_lifedrain.jpg
 
@@ -161,7 +161,7 @@
 ### ![spell_nature_chainlightning] Arcane Destruction Protocol (57653)
 **Effect:** Increase damage by next 5 attacks by 2500.<br/>
 **Cast:** 1 sec cast.<br/>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_chainlightning.jpg">spell_nature_chainlightning</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_chainlightning.jpg">Spell_Nature_ChainLightning</a><br>
 **Buff effect:** Increased damage by 2500 for next 5 attacks.<br>
 **Buff type:** <span style="color:#3296FF">Magic</span>.<br>
 **Note:** *Stacks up to at least 5 times.*<br/>
@@ -169,18 +169,18 @@
 [spell_nature_chainlightning]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_chainlightning.jpg
 
 
-### ![spell_nature_unyeildingstamina] Reflection Protocol (57654)
+### ![spell_shadow_teleport] Reflection Protocol (57654)
 **Effect:** Grants the caster a 100% chance to reflect spells for 10 sec.<br/>
 **Cast:** 1 sec cast.<br/>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_unyeildingstamina.jpg">spell_nature_unyeildingstamina</a>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_teleport.jpg">Spell_Shadow_Teleport</a>
 
-[spell_nature_unyeildingstamina]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_unyeildingstamina.jpg
+[spell_shadow_teleport]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_teleport.jpg
 
 
 ### ![spell_frost_wisp] Destablizing Energy (57655)
 **Effect:** Reduces an enemy's armor by 5% and attack speed by 5% for 20 sec.<br/>
 **Cast:** Instant.<br/>
-**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_wisp.jpg">spell_frost_wisp</a><br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_wisp.jpg">Spell_Frost_Wisp</a><br>
 **Debuff effect:** Reduces armor by 5% and attack speed by 5%.<br>
 **Debuff type:** <span style="color:#C80000">Physical</span>.<br/>
 **Note:** *Stacks up to at least 9 times.*<br/>
