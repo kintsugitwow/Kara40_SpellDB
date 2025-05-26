@@ -1,0 +1,222 @@
+# ![boss] Echo of Medivh (Undead)
+
+[boss]: https://static.wikia.nocookie.net/wowwiki/images/f/f4/UI-Skull-32x32.png
+
+
+
+### ![spell_shadow_shadowbolt] Doom of Medivh (40005)
+**Effect:** Blasts the enemy for 3750 Shadow damage.<br>
+**Cast:** Instant.<br>
+**Range:** 25 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
+
+[spell_shadow_shadowbolt]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_shadowbolt.jpg
+
+
+### ![spell_nature_drowsy] Doom of Medivh (40006)
+**Effect:** ???<br>
+**Cast:** Instant.<br>
+**Range:** 105 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_nature_drowsy.jpg">Spell_Nature_Drowsy</a><br>
+**Debuff effect:** A deep sense of dread fills your heart...<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+**Note:** *Raid explodes at 5 stacks.*<br>
+
+[spell_nature_drowsy]: https://wow.zamimg.com/images/wow/icons/small/spell_nature_drowsy.jpg
+
+
+### ![inv_misc_shadowegg] Corruption of Medivh (52674)
+**Effect:** ???<br>
+**Cast:** Instant.<br>
+**Range:** 50003 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/inv_misc_shadowegg.jpg">INV_Misc_ShadowEgg</a><br>
+**Debuff effect:** Wicked thoughts have been planted in your mind...<br>
+**Debuff type:** <span style="color:#C80000">Physical</span>.<br>
+**Note:** *2500 shadow damage every 3 sec. Spreads to nearby players.*
+
+[inv_misc_shadowegg]: https://wow.zamimg.com/images/wow/icons/small/inv_misc_shadowegg.jpg
+
+
+### ![spell_shadow_possession] Guardian's Ire (51109)
+**Effect:** ???<br>
+**Cast:** Instant.<br>
+**Range:** 35 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_possession.jpg">Spell_Shadow_Possession</a><br>
+**Debuff effect:** Echo of Medivh was interrupted.<br>
+**Debuff type:** <span style="color:#C80000">Physical</span>.<br>
+**Note:** *At 4 stacks turns into 1 stack of Medivh's Fury (51110).*<br>
+
+[spell_shadow_possession]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_possession.jpg
+
+
+### ![spell_shadow_summonvoidwalker] Medivh's Fury (51110)
+**Effect:** Increases casting speed by 50% for 30 sec.<br>
+**Cast:** Instant.<br>
+**Range:** 33 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_summonvoidwalker.jpg">Spell_Shadow_SummonVoidWalker</a><br>
+**Buff effect:** Casting speed increased by 50%.<br>
+**Buff type:** <span style="color:#C80000">Physical</span>.<br>
+**Note:** *Stacks.*<br>
+
+[spell_shadow_summonvoidwalker]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_summonvoidwalker.jpg
+
+
+### ![spell_shadow_charm] Gaze of the Guardian (51111)
+**Effect:** Reduces the effectiveness of any healing by 80% for 5 sec.<br>
+**Cast:** Instant.<br>
+**Range:** 200 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_charm.jpg">Spell_Shadow_Charm</a><br>
+**Debuff effect:** Healing effects reduced by 80%.<br>
+**Debuff type:** <span style="color:#C80000">Physical</span>.<br>
+**Note:** *No trackable event.*
+
+[spell_shadow_charm]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_charm.jpg
+
+
+### ![spell_fire_fireball02] Pyroblast (51112)
+**Effect:** Hurls an immense fiery boulder that causes 3000 to 3174 Fire damage and an additional 10425 Fire damage over 15 sec.<br>
+**Cast:** 1.6 sec cast.<br>
+**Range:** 105 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_fireball02.jpg">Spell_Fire_Fireball02</a><br>
+**Debuff effect:** 695 Fire damage every 1 seconds.<br>
+**Debuff type:** <span style="color:#C80000">Physical</span>.<br>
+
+[spell_fire_fireball02]: https://wow.zamimg.com/images/wow/icons/small/spell_fire_fireball02.jpg
+
+
+### ![spell_fire_selfdestruct] Flamestrike (51113)
+**Effect:** Calls down a pillar of fire, burning all enemies within the area for 2500 Fire damage and an additional 8000 Fire damage over 8 sec.<br>
+**Cast:** 1.6 sec cast.<br>
+**Range:** 105 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_fire_selfdestruct.jpg">Spell_Fire_SelfDestruct</a><br>
+
+[spell_fire_selfdestruct]: https://wow.zamimg.com/images/wow/icons/small/spell_fire_selfdestruct.jpg
+
+
+### ![spell_frost_frostnova] Frost Nova (51114)
+**Effect:** Blasts enemies within 20 yards near the caster for 2900 Frost damage and freezes them in place for up to 8 sec.  Damage caused may interrupt the effect.<br>
+**Cast:** 1.6 sec cast.<br>
+**Range:** 23 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_frostnova.jpg">Spell_Frost_FrostNova</a><br>
+**Debuff effect:** <br>
+**Debuff type:** .<br>
+
+[spell_frost_frostnova]: https://wow.zamimg.com/images/wow/icons/small/spell_frost_frostnova.jpg
+
+
+### ![spell_holy_flashheal] Arcane Focus (51115)
+**Effect:** Increases Magic damage taken by 40 for 60 sec.<br>
+**Cast:** Instant.<br>
+**Range:** 50005 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_holy_flashheal.jpg">Spell_Holy_FlashHeal</a><br>
+**Debuff effect:** Magic damage taken increased by 40%.<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+**Note:** *Applied on successful Arcane Blast (51116) cast. Event tracking doesn't work for this spell. Track Arcane Blast (51116) "CAST" instead.*
+
+[spell_holy_flashheal]: https://wow.zamimg.com/images/wow/icons/small/spell_holy_flashheal.jpg
+
+
+### ![spell_arcane_starfire] Arcane Blast (51116)
+**Effect:** Hurls a magical bolt at an enemy, inflicting Arcane damage.<br>
+**Cast:** 1.6 sec cast.<br>
+**Range:** 105 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_arcane_starfire.jpg">Spell_Arcane_StarFire</a><br>
+
+[spell_arcane_starfire]: https://wow.zamimg.com/images/wow/icons/small/spell_arcane_starfire.jpg
+
+
+### ![spell_frost_wisp] Freezing Chill (51117)
+**Effect:** Decreases movement speed by 50% and attack speed by 50% for 15 sec.<br>
+**Cast:** Instant.<br>
+**Range:** 50005 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_wisp.jpg">Spell_Frost_Wisp</a><br>
+**Debuff effect:** Decreases movement speed by 50% and attack speed by 50%.<br>
+**Debuff type:** <span style="color:#3296FF">Magic</span>.<br>
+
+[spell_frost_wisp]: https://wow.zamimg.com/images/wow/icons/small/spell_frost_wisp.jpg
+
+
+### ![spell_frost_frostbolt02] Frostbolt (51118)
+**Effect:** Launches a bolt of frost at the enemy, causing 3800 Frost damage.<br>
+**Cast:** 1.6 sec cast.<br>
+**Range:** 105 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_frostbolt02.jpg">Spell_Frost_FrostBolt02</a><br>
+
+[spell_frost_frostbolt02]: https://wow.zamimg.com/images/wow/icons/small/spell_frost_frostbolt02.jpg
+
+
+### ![spell_shadow_shadowbolt] Shadow Bolt (51122)
+**Effect:** Hurls a bolt of dark magic at an enemy, inflicting Shadow damage.<br>
+**Cast:** 2 sec cast.<br>
+**Range:** 103 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
+**Note:** *Summons Shade of Medivh on successful cast.*<br>
+
+[spell_shadow_shadowbolt]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_shadowbolt.jpg
+
+
+### ![spell_shadow_summonvoidwalker] Shadowform (51125)
+**Effect:** Assumes a Shadowform, reducing physical damage taken by 30%.<br>
+**Cast:** Instant.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_summonvoidwalker.jpg"></a><br>
+
+[spell_shadow_summonvoidwalker]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_summonvoidwalker.jpg
+
+
+### ![spell_shadow_unholyfrenzy] Enrage (8269)
+**Effect:** Increases the caster's attack speed by 60% and the Physical damage it deals by 50 for 2 min.<br>
+**Cast:** Instant.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_unholyfrenzy.jpg">Spell_Shadow_UnholyFrenzy</a><br>
+**Debuff effect:** Physical damage dealt is increased by 124. Attack speed increased by 60%.<br>
+**Debuff type:** <span style="color:#C80000">Physical</span>.<br>
+
+[spell_shadow_unholyfrenzy]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_unholyfrenzy.jpg
+
+
+### ![spell_frost_wisp] Ghost Visual (22650)
+**Effect:** ???<br>
+**Cast:** Instant.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_frost_wisp.jpg">Spell_Frost_Wisp</a><br>
+
+[spell_frost_wisp]: https://wow.zamimg.com/images/wow/icons/small/spell_frost_wisp.jpg
+
+
+
+
+
+
+# Echo of Medivh Adds
+
+
+
+## Lingering Doom (Undead)
+
+
+### ![spell_shadow_shadowbolt] Shadebolt (51121)
+**Effect:** Hurls a bolt of dark magic at an enemy, inflicting Shadow damage.<br>
+**Cast:** 3 sec cast.<br>
+**Range:** 103 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
+
+[spell_shadow_shadowbolt]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_shadowbolt.jpg
+
+
+
+## Shade of Medivh (Demon)
+
+
+### ![spell_shadow_shadowbolt] Shadebolt (51121)
+**Effect:** Hurls a bolt of dark magic at an enemy, inflicting Shadow damage.<br>
+**Cast:** 3 sec cast.<br>
+**Range:** 103 yards.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_shadowbolt.jpg">Spell_Shadow_ShadowBolt</a><br>
+
+[spell_shadow_shadowbolt]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_shadowbolt.jpg
+
+
+### ![spell_shadow_summonvoidwalker] Shadowform (52669)
+**Effect:** ???<br>
+**Cast:** Instant.<br>
+**Texture:** <a href="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_summonvoidwalker.jpg">Spell_Shadow_SummonVoidWalker</a><br>
+
+[spell_shadow_summonvoidwalker]: https://wow.zamimg.com/images/wow/icons/small/spell_shadow_summonvoidwalker.jpg

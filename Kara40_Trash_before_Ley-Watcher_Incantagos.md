@@ -167,7 +167,7 @@
 [inv_misc_monsterclaw_02]: https://wow.zamimg.com/images/wow/icons/small/inv_misc_monsterclaw_02.jpg
 
 
-### ![spell_nature_wispsplode] Manascale Eruption ()
+### ![spell_nature_wispsplode] Manascale Eruption (52382)
 **Effect:** Causes an explosion of arcane magic around the caster, causing Arcane damage to all targets within 30 yards.<br>
 **Cast:** 1.5 sec cast.<br>
 **Range:** 7 yards.<br>

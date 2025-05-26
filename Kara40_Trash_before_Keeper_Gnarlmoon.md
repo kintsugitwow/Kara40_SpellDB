@@ -1,7 +1,7 @@
 # Trash before Keeper Gnarlmoon
 
 
-## Shadowclaw Darkbringer
+## Shadowclaw Darkbringer (Humanoid)
 
 
 ### ![spell_shadow_sealofkings] Veil of Karazhan (57643)
@@ -45,7 +45,7 @@
 
 
 
-## Shadowclaw Rager
+## Shadowclaw Rager (Humanoid)
 
 
 ### ![spell_shadow_chilltouch] Shadowclaw Enrage (57639)
@@ -78,7 +78,7 @@
 
 
 
-## Shadowclaw Worgen
+## Shadowclaw Worgen (Humanoid)
 
 
 ### ![spell_shadow_shadowbolt] Claw of Shadow (57640)
@@ -102,7 +102,7 @@
 
 
 
-## Duskfang Creeper
+## Duskfang Creeper (Beast)
 
 
 ### ![spell_nature_corrosivebreath] Encroaching Poison (57642)
@@ -126,7 +126,7 @@
 
 
 
-## Spectral Worker
+## Spectral Worker (Undead)
 
 ### ![spell_shadow_psychicscream] Phantom Scream (57062)
 **Effect:** Silences nearby enemies, preventing them from casting spells for 10 sec.<br>
@@ -151,7 +151,7 @@
 
 
 
-## Greater Gloomwing
+## Greater Gloomwing (Beast)
 
 *Auto attack, only.*
 
